@@ -1,7 +1,3 @@
 pandas 
 numpy
 flask
-tensorflow
-requests
-keras
-opencv-python
