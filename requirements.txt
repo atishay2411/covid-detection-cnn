@@ -4,4 +4,4 @@ flask
 tensorflow
 requests
 keras
-opencv
+opencv-python
